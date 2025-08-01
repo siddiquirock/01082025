@@ -1,0 +1,11 @@
+# Ignore all .log files
+*.log
+
+# Ignore folder named temp/
+temp/
+
+# Ignore Terraform local files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
