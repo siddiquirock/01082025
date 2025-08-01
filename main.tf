@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "tfrevision" {
-  name     = "xyz"
-  location = "US"
+  name     = "1572"
+  location = "Central US"
 
 
 }
